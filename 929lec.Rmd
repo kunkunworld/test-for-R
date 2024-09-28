@@ -48,12 +48,6 @@ updateR()
 If you still can't update to the latest version, please install Rstudio again .
 
 
-## Including Plots
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
 
